@@ -1,4 +1,4 @@
-
+![logo](https://github.com/anilkumar231/anilkumar231/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:786/0*7Q3yvSIv_t0ioJ-Z.gif">
